@@ -1,0 +1,7 @@
+Homicide Investigation
+
+https://www.kaggle.com/murderaccountability/homicide-reports
+
+Investigate geographic clusters of murders over time identify specific trends in specific regions, solved or unsolved.
+
+Where possible suggest novel links between solved and unsolved murders.

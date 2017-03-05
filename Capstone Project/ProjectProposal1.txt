@@ -1,0 +1,22 @@
+Presidential Race on Twitter, the Presidential Debates and Inauguration Analysis on Reddit:
+
+https://www.kaggle.com/mrisdal/2016-us-presidential-debates
+
+https://www.kaggle.com/benhamner/clinton-trump-tweets
+
+https://www.kaggle.com/amalinow/reddit-comments-on-presidential-inauguration
+
+Analyse Reddit posts from Trump's inauguration to gauge public opinion over the course of the event.
+
+Carve the inauguration up into themed segments on a timeline and search for specific posts according to that theme.
+
+Also find the posts with the most interactions overall to work out what was most impactful.
+
+Delve deeper into hashtags and specific words and memes. Investigate how memes disseminated.
+
+Perhaps also look at other key influencers like Trump Jr, Mike Pence, Malik Obama, Barack Obama, Elizabeth Warren and others
+
+Investigate the role played by alternative media.
+
+Augment analysis of the datasets with the use of Reddit and Twitter API. Perhaps create a LEAN-y app
+that interfaces with Reddit and Twitter APIs to pick tweets and posts.

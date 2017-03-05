@@ -1,0 +1,8 @@
+What attributes are most critical to success in each position?
+
+https://www.kaggle.com/hugomathien/soccer
+
+Investigate player stats in different positions in the English Premiership for the past three seasons and their relation
+to outcomes such as the game result, crosses into the box, goals scored, goals conceded.
+
+Test the insights gained in the German Bundesliga and find reasons for differences
