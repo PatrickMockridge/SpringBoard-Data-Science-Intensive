@@ -16,3 +16,5 @@ My Capstone report focussed on data related to the 2016 US Presidential Election
 [Reddit Comments on the Presidential Inauguration](https://www.kaggle.com/amalinow/reddit-comments-on-presidential-inauguration)
 
 The Introduction to my Final Project submissioncan be found on my personal blog [here](https://www.patrickmockridge.com/2017/06/02/springboard-data-science-intensive-introduction/)
+
+[Donald Trump Twitter WordCloud normalised for popularity](https://github.com/PatrickMockridge/SpringBoard-Data-Science-Intensive/blob/master/Capstone%20Project/Final%20Project/data/trump-colored-masked-twitter-wordcloud.png?raw=true)
