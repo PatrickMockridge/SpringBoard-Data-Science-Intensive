@@ -1,7 +1,7 @@
 # SpringBoard Data Science Intensive
 SpringBoard Data Science Intensive Course Project Repo
 
-This repository represents the work completed for my Intensive introduction to Data Science at [Springboard.com](https://www.springboard.com)
+This repository represents the work completed for my Intensive introduction to Data Science at [Springboard.com](https://www.springboard.com) in early 2017
 
 The course contains a variety of miniprojects on data munging and machine learning algoarithms.
 
